@@ -1,0 +1,8 @@
+build/
+data/images/*.c
+lib/
+tmp/
+*.rgba
+
+# ide
+.vscode/
